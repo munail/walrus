@@ -1,0 +1,36 @@
+body {
+    color: aquamarine;
+    font-family: sans-serif;
+    background-color: white;
+    
+}
+h.huu {
+    width: 70%;
+    text-underline-position: auto;
+    font-style: oblique;
+    font-weight: bolder;
+    text-align: right
+}  
+p.intro {
+    width: 70%;
+    text-align: center;
+    font-weight: bolder;
+}
+.important {
+    color: black;
+    text-align: left;
+}
+.unimportant {
+    color: grey;
+    text-align: left;
+}
+.high {
+    color: burlywood;
+    width: 70%;
+    
+}
+.unimpor {
+    width: 90%;
+    color: black;
+    
+}
