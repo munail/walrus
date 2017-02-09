@@ -2,8 +2,13 @@ body {
     color: aquamarine;
     font-family: sans-serif;
     background-color: white;
-    
+    background-image: url(../image/walrus3);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
+    img {
+        float: centre;
+      }
 h.huu {
     width: 70%;
     text-underline-position: auto;
@@ -20,9 +25,14 @@ p.intro {
     color: black;
     text-align: left;
 }
-.unimportant {
+con {
     color: grey;
     text-align: left;
+    float: right;
+
+}
+con2 {
+    float: right;
 }
 .high {
     color: burlywood;
